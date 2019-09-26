@@ -7,7 +7,9 @@
   "dependencies": {
     "create-next-app": "^9.0.6",
     "next": "^9.0.6",
+    "next-transpile-modules": "^2.3.1",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "umqombothi-component-library": "^1.1.0"
   }
 }

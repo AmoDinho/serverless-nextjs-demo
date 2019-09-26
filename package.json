@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "create-next-app": "^9.0.6"
   }

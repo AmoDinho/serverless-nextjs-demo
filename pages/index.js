@@ -1,11 +1,13 @@
-import { NavigationBar, Footer } from 'umqombothi-component-library'
+import { NavigationBar, Footer, HeadingTwo } from 'umqombothi-component-library'
 
 function Home() {
     return (
         <div>
             <NavigationBar />
-            Welcome home
-        <Footer />
+            <HeadingTwo
+                text="PMB + is coming soon. Soz for the delay" />
+            😁
+            <Footer />
         </div>
     )
 }

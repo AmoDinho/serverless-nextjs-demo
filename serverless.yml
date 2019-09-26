@@ -1,3 +1,5 @@
+org: amodinho
+app: serverlessnextjsdemo
 service: serverless-nextjs-demo
 
 provider:

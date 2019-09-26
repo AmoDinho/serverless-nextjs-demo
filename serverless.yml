@@ -10,7 +10,7 @@ provider:
   environment:
       SLS_DEBUG: true
 
-myNextApplication:
+serverless-nextjs-demo:
   component: serverless-next.js
 
 

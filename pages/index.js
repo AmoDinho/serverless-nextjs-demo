@@ -1,6 +1,12 @@
+import { NavigationBar, Footer } from 'umqombothi-component-library'
+
 function Home() {
     return (
-        <div>Welcome home</div>
+        <div>
+            <NavigationBar />
+            Welcome home
+        <Footer />
+        </div>
     )
 }
 

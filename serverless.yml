@@ -7,3 +7,10 @@ provider:
   region: us-east-1
   environment:
       SLS_DEBUG: true
+
+serverlessNextJSDemo:
+  component: serverless-next.js
+
+package:
+  exclude:
+    - ./**
